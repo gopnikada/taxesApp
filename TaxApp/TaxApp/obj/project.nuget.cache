@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyDw4if5y0gMhlNrpE2gcJT2PrTARCijIGzQMr+g8VkQoVfX2GvCQYlHDhB/6dmqZdvzchgtXTDUR1jehNz9vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klars\\source\\repos\\TaxApp\\TaxApp\\TaxApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klars\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
